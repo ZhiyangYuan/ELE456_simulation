@@ -14,7 +14,7 @@ This is the repository for simulation codes and results of ELE456 final project.
 
 ## Paper
 
-This simulation is based on the content of paper ["Nature, 2013, 495(7440): 205-209."](https://www.nature.com/articles/nature11902/)
+This simulation is based on the content of the paper ["Nature, 2013, 495(7440): 205-209."](https://www.nature.com/articles/nature11902/)
 
 ## Authors
 
