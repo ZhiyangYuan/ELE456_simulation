@@ -8,7 +8,7 @@ This is the repository for simulation codes and results of ELE456 final project.
 
 - `frames_wigner/` contains Wigner function figures at different simulation times for making the movie.
 
-- `movies/` contains the movies showing the evolution of Q and Wigner functions.
+- `movies/` contains the GIF files and movies showing the evolution of Q and Wigner functions under different decay rates.
 
 - `paper_fig/` contains figures for comparison with the results in the paper.
 
